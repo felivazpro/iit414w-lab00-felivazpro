@@ -21,6 +21,7 @@ env/
 
 # Data (never commit fetched or generated datasets)
 data/fastf1_cache/
+fastf1_cache/
 data/*.csv
 data/*.json
 data/*.parquet
